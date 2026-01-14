@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **h.obillo.554699@umindanao.edu.ph**
 
-- ⚡ Fun fact **I Sleep A lot.**
+- ⚡ Fun fact **I Sleep A Lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
