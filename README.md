@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hero Camillus Obillo</h1>
-<h3 align="center">An aspiring IT Student.</h3>
+<h3 align="center">Ad Astra Per Aspera</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScipt**
 
